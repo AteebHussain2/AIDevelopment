@@ -1,0 +1,4 @@
+/.env
+/chatbot
+/.streamlit
+/testing_app.py

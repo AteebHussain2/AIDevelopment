@@ -1,0 +1,4 @@
+/.env
+/sql_query_agent
+/.db
+/csv

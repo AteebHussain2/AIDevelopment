@@ -1,0 +1,5 @@
+# conda activate "D:\TanDoori Data\DataBase\Projects\AIDevelopment\Project 013 - Smart Study Planner\studyPlanner"
+
+streamlit
+scheduler
+pandas

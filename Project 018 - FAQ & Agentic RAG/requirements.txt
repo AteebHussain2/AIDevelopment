@@ -1,0 +1,8 @@
+# conda activate "D:\TanDoori Data\DataBase\Projects\AIDevelopment\Project 018 - FAQ & Agentic RAG\chatbot"
+
+streamlit
+langchain
+langchain_community
+langchain-google-genai
+google-generativeai
+faiss-cpu

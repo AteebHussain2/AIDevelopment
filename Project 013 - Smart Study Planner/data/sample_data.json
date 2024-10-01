@@ -1,0 +1,38 @@
+[
+    {
+        "username": "john_doe",
+        "available_time": 5,
+        "subjects": ["Math", "Science", "History"],
+        "priority_subject": "Math",
+        "goal": "Complete Chapter 4 in Math and review History notes",
+        "include_breaks": true,
+        "pomodoro_duration": 25
+    },
+    {
+        "username": "jane_smith",
+        "available_time": 3,
+        "subjects": ["Computer Science", "Languages"],
+        "priority_subject": "Computer Science",
+        "goal": "Finish coding exercises and read literature",
+        "include_breaks": false,
+        "pomodoro_duration": 30
+    },
+    {
+        "username": "alex_lee",
+        "available_time": 6,
+        "subjects": ["Math", "Science", "Languages", "History"],
+        "priority_subject": "Science",
+        "goal": "Prepare for science quiz and complete math homework",
+        "include_breaks": true,
+        "pomodoro_duration": 20
+    },
+    {
+        "username": "maria_garcia",
+        "available_time": 4,
+        "subjects": ["History", "Languages"],
+        "priority_subject": "Languages",
+        "goal": "Practice Spanish and review World War II notes",
+        "include_breaks": true,
+        "pomodoro_duration": 25
+    }
+]
